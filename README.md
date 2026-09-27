@@ -83,26 +83,6 @@
 
 <br>
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brenohodrigues&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true" width="90%"/>
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Brenohodrigues&theme=onedark&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
-
-</div>
-
-<br>
-
 ## 🐍 Snake Contribution
 
 <div align="center">
