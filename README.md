@@ -39,24 +39,27 @@
 
 ## 🚀 Projetos
 
-> ⚠️ Substitua os cards abaixo pelos seus repositórios reais.
-
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📁 Nome do Projeto 1</h3>
-      <p align="center">Breve descrição do que o projeto faz e quais tecnologias foram usadas.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🧑‍💻 Reconhecimento Facial</h3>
+      <p align="center">Sistema em Python para cadastro de usuários com autenticação facial via webcam, desenvolvido para a APS. Guarda apenas o vetor matemático do rosto (não a foto) e as senhas com hash bcrypt.</p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=2E9EF7"/></a>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=2E9EF7"/>
+        <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=2E9EF7"/>
+        <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square&logoColor=2E9EF7"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Brenohodrigues/Reconhecimento-facial"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=2E9EF7"/></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📁 Nome do Projeto 2</h3>
-      <p align="center">Breve descrição do que o projeto faz e quais tecnologias foram usadas.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">💈 Bot para Barbearia</h3>
+      <p align="center">Bot desenvolvido para uma barbearia.</p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=2E9EF7"/></a>
+        <a href="https://github.com/Brenohodrigues/barbearia-bot"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=2E9EF7"/></a>
       </p>
     </td>
   </tr>
@@ -118,4 +121,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:000000&height=100&section=footer" width="100%"/>
 
-</div>
+</div>****
