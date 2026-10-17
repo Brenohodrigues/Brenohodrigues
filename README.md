@@ -55,13 +55,6 @@
         <a href="https://github.com/Brenohodrigues/Reconhecimento-facial"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=2E9EF7"/></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💈 Bot para Barbearia</h3>
-      <p align="center">Bot desenvolvido para uma barbearia.</p>
-      <p align="center">
-        <a href="https://github.com/Brenohodrigues/barbearia-bot"><img src="https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=2E9EF7"/></a>
-      </p>
-    </td>
   </tr>
 </table>
 
